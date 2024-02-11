@@ -12,7 +12,7 @@ BrailleVision is a Python-based tool designed to translate braille text from ima
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - OpenCV library
 - Pytorch
 - NumPy library
