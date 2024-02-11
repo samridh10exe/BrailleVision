@@ -292,7 +292,7 @@ def translate(letters):
     return ans
 
 # Regular
-# url = 'https://i.imgur.com/TxODU8B.png' #1 Intro
+url = 'https://i.imgur.com/TxODU8B.png' #1 Intro
 # url = 'https://i.imgur.com/j9Ecfe3.png' #2 Braille
 # url = 'https://i.imgur.com/maU4r0t.jpg'  #3 Poke direction
 # url = 'https://i.imgur.com/W86n6Gv.png' #4 Samsung
