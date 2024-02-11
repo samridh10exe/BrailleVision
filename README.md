@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/BrailleVision.git
+git clone https://github.com/samridh10exe/BrailleVision.git
 Install the required dependencies:
 
 Copy code
