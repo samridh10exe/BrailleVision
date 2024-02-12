@@ -34,6 +34,9 @@ BrailleVision is a Python-based tool designed to translate braille text from ima
 ## Usage
 
 1. Place the image containing braille text in the project directory.
+
+Or Put the Url of the image in `url = https://i.imgur.com/example.jpg`
+
 2. Run the `braille_reader.py` script:
 
    ```
