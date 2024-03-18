@@ -1,5 +1,6 @@
 # BrailleVision
 ## SBUHacks 2024
+Winner at SBUHacks 2024
 BrailleVision is a Python-based tool designed to translate braille text from images into readable text. It utilizes image processing and computer vision techniques to detect braille dots, create a grid representing their arrangement, and translate the braille patterns into corresponding characters.
 
 ## Features
